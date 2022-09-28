@@ -12,3 +12,6 @@ I'm a software engineer at [Klynox Laboratories](https://web.facebook.com/klynox
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/confidenceyobo/), [FB](https://fb.me/confiyobo), 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Quora is my favourite social media platform
+
+[![@confidenceyobo's Holopin board](https://holopin.io/api/user/board?user=confidenceyobo)](https://holopin.io/@confidenceyobo)
+
